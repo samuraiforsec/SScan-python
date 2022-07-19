@@ -1,0 +1,14 @@
+fire
+beautifulsoup4
+loguru
+pymongo
+pymysql
+psycopg2-binary
+uvloop; platform_system != "Windows"
+requests
+geoip2
+retrying
+yarl
+dnspython
+aiohttp
+rich
